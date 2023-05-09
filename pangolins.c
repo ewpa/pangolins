@@ -12,7 +12,7 @@ typedef struct
   char qa[51]; int yes; int no;
 } qadata_t;
 
-void main()
+int main()
 {
   qadata_t qadata[7];
   // 2010 DATA "Does it live in the sea",4,2
